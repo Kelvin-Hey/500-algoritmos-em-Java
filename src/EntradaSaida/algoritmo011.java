@@ -14,6 +14,7 @@ public class algoritmo011
         System.out.print( "\n20 / 4 div 2 é igual a: " + (20 / 4 / 2) );
         System.out.print( "\nÉ IGUAL a (20 / 4) div 2 : " + ((20 / 4) / 2) +
                           "\nlogo div tem a MESMA HIERARQUIA " );
+        
         // Cuidado! procure não usar um ponto depois de uma barra(/),
         // pois assim voçê poderá estar indicando um diretório.
         // Ex: System.out.print( "da /." );
