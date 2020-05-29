@@ -8,7 +8,7 @@ public class algoritmo011
 
         // Evite usar printf quando for fazer divisões usando o operador
         // módulo, pois o mesmo é usado para especifar o tipo numérico
-        System.out.print( "\n\n18 / 6 % 2 é igual a: " + (18 / 6 % 2 ) );
+        System.out.print( "\n18 / 6 % 2 é igual a: " + (18 / 6 % 2 ) );
         System.out.print( "\nUma operação de divisão fora de parênteses não pode ser um "
                             + "\ndos operandos de uma expressao com %." );
         System.out.print( "\n20 / 4 div 2 é igual a: " + (20 / 4 / 2) );
