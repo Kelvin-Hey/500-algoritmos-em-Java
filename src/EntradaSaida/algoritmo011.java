@@ -19,7 +19,7 @@ public class algoritmo011
         // pois assim voçê poderá estar indicando um diretório.
         // Ex: System.out.print( "da /." );
         System.out.print( " da / " );
-        System.out.print( "\n\n30 / 4 div 2 é igual a: " + (30 / 4 / 2 ) );
+        System.out.print( "\n30 / 4 div 2 é igual a: " + (30 / 4 / 2 ) );
         System.out.print( "\nÉ IGUAL a (30 / 4) div 2 : " + ((30 / 4) / 2) +
                           " logo div tem a MESMA HIERARQUIA " );
         System.out.print( " da / " );
