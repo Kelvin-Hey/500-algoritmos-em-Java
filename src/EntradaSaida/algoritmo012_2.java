@@ -1,7 +1,7 @@
-/****************************************************
- * Entrar com um número inteiro de 3 casas imprimir *
- * o algarismo da casa das deze-nas.                *
- ****************************************************/
+/******************************************************
+ * Entrar com um número inteiro de 3 casas e imprimir *
+ * o algarismo da casa das deze-nas.                  *
+ ******************************************************/
 
 package EntradaSaida;
 
@@ -15,7 +15,9 @@ public class algoritmo012_2
         int a = 0;
         int d;
 
-        System.out.print( "\nDigite um número de três casa: " );
+        System.out.print( "\nDigite um número de três casas: " );
+        a = digite.nextInt();
+
         d = (a / 10) % 10;
         System.out.print( "\nAlgarismo da casa das dezenas: " + d );
         System.out.println(); // pula uma linha

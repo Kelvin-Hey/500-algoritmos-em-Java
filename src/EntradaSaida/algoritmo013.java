@@ -14,7 +14,7 @@ public class algoritmo013
 
         int data, dia, mes, anos;
 
-        System.out.println( "Insira a data no formato ddmmaa" );
+        System.out.println( "Insira a data no formato ddmmaa: " );
         data = digite.nextInt();
 
         // 23 03 2023

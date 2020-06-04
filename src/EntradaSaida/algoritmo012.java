@@ -1,6 +1,6 @@
 /****************************************************
  * Entrar com um número inteiro de 3 casas imprimir *
- * o algarismo da casa das dezenas.                 *
+ * o algarismo da casa das deze-nas.                *
  ****************************************************/
 package EntradaSaida;
 import java.util.Scanner;
