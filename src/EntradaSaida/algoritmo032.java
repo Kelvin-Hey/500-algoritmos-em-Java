@@ -5,7 +5,7 @@
  * raiz quadrada:                                    *
  *****************************************************/
  
- package EntradaSaisda;
+ package EntradaSaida;
  import java.util.Scanner;
  
  public class algoritmo032
@@ -13,7 +13,9 @@
      public static void main( String[] args )
      {
          Scanner digite = new Scanner( System.in );
-         double num, quad, raizQuadrada;
+         double num,
+         double quad = 0;
+         double raizQuadrada = 0;
          
          System.out.print( "Digite um número: " );
          num = digite.nextDouble();
