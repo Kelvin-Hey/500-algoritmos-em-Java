@@ -13,7 +13,7 @@
      public static void main( String[] args )
      {
          Scanner digite = new Scanner( System.in );
-         double num,
+         double num;
          double quad = 0;
          double raizQuadrada = 0;
          
